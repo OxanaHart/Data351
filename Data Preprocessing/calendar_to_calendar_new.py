@@ -37,10 +37,10 @@ for i in range(len(calendar)):
     end_dates.append(dt_end)
 
     for j in range(len(start_dates)):
-        new_row = calendar.loc[i]
+        new_row = calendar.loc[i].copy()
         new_row['start_date'] = start_dates[j]
         new_row['end_date'] = end_dates[j]
         new_row['month'] = start_dates[j].month
         new_calendar = new_calendar.append(new_row,ignore_index=True)
 
-new_calendar.to_csv("neww_calendar.csv")
+new_calendar.to_csv("new_calendar.csv")
