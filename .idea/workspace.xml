@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74d1ae1f-786c-4d19-a12b-6944eac259d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wellington Hourly Investigation/Wellington Complete Data/20220101-31_BOP_RR05_Fd.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +36,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jacobfrench/Desktop/Data351/Data Preprocessing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacobfrench/Desktop/Data351/Wellington Hourly Investigation/Wellington Complete Data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Wellington Hourly Investigation/Wellington Complete Data" />
       <recent name="$PROJECT_DIR$/Data Preprocessing" />
       <recent name="$PROJECT_DIR$/Jacob Code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Wellington Hourly Investigation" />
+      <recent name="$PROJECT_DIR$/Wellington Hourly Investigation/Wellington Complete Data" />
       <recent name="$PROJECT_DIR$/Wellington/Wellington Raw Data" />
       <recent name="$PROJECT_DIR$/Hourly Carbon Emissions BOP" />
       <recent name="$PROJECT_DIR$/Data Preprocessing/GTFS data waikato" />
@@ -69,6 +74,7 @@
       <workItem from="1692588377259" duration="742000" />
       <workItem from="1693351899074" duration="5861000" />
       <workItem from="1693368726390" duration="682000" />
+      <workItem from="1693956201248" duration="3411000" />
     </task>
     <servers />
   </component>
