@@ -1,0 +1,4 @@
+Wellington filter=lfs diff=lfs merge=lfs -text
+Complete filter=lfs diff=lfs merge=lfs -text
+Data.csv filter=lfs diff=lfs merge=lfs -text
+Wellington[[:space:]]Complete[[:space:]]Data.csv filter=lfs diff=lfs merge=lfs -text
